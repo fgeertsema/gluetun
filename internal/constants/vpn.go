@@ -19,6 +19,8 @@ const (
 	Purevpn = "purevpn"
 	// Privado is a VPN provider.
 	Privado = "privado"
+	// Fastestvpn is a VPN provider.
+	Fastestvpn = "fastestvpn"
 )
 
 const (
